@@ -15,6 +15,10 @@ addressing the privacy component, and the improvements over
 other distributed machine learning methods such as Federated
 Learning.
 
+## High Level Diagram:
+<br>
+<img height=250 width=500 src="./model/docs/HLD_new.png">
+<br>
 Note: This project utilizes Azure VMs and Swarm to run distributed machine learning training on point cloud data.
 
 The below image illustrates the setup for this following example
