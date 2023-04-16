@@ -19,7 +19,7 @@ Note: This project utilizes Azure VMs and Swarm to run distributed machine learn
 
 The below image illustrates the setup for this following example
 <br>
-<img height=250 src="./model/docs/4_Node_SD.png">
+<img height=250 width=500 src="./model/docs/4_Node_SD.png">
 
 The model used is [complex yolo v4 model](https://github.com/maudzung/Complex-YOLOv4-Pytorch) using pytorch and the dataset used is the kitti 3d dataset which is publicly available.For more details on model refer [paper](https://arxiv.org/pdf/1803.06199.pdf)
 
