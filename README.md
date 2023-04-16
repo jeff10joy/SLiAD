@@ -17,7 +17,7 @@ Learning.
 
 ## High Level Diagram:
 <br>
-<img height={250} src="./model/docs/HLD_new.png">
+<img height=250 src="./model/docs/HLD_new.png">
 <br>
 Note: This project utilizes Azure VMs and Swarm to run distributed machine learning training on point cloud data.
 
