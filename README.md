@@ -18,7 +18,7 @@ Learning.
 Note: This project utilizes Azure VMs and Swarm to run distributed machine learning training on point cloud data.
 
 The below image illustrates the setup for this following example
-<img width=200 height=200 src="./model/docs/4_Node_SD.png">
+<img width=400 height=200 src="./model/docs/4_Node_SD.png">
 
 The model used is [complex yolo v4 model](https://github.com/maudzung/Complex-YOLOv4-Pytorch) using pytorch and the dataset used is the kitti 3d dataset which is publicly available.For more details on model refer [paper](https://arxiv.org/pdf/1803.06199.pdf)
 
