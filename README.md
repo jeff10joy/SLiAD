@@ -9,8 +9,7 @@ cluding sensitive information such as location-specific landmarks
 and personally identifiable information, raising concerns about
 privacy breaches. Identifying and obfuscating such data during
 preprocessing is an expensive process. This paper puts forth a
-Swarm Learning based training approach that offers perfor-
-mance on par with that of traditional training approaches while
+Swarm Learning based training approach that offers performance on par with that of traditional training approaches while
 addressing the privacy component, and the improvements over
 other distributed machine learning methods such as Federated
 Learning.
